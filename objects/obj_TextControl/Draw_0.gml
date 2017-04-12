@@ -1,1 +1,1 @@
-draw_text(x,y, string_copy(vText, 1, iText));
+draw_text(x,y, string_copy(textToPrint, 1, textAlreadyWritten));
